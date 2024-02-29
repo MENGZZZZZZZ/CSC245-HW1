@@ -5,3 +5,14 @@
 ![7d663f1dbb38fe3be0a446ce66f013e](https://github.com/MENGZZZZZZZ/CSC245-HW1/assets/161723991/de0ed032-c8da-44ce-afc8-b3676346e7df)
 ![e923c9ff38bda09ffb1cce4906a3b88](https://github.com/MENGZZZZZZZ/CSC245-HW1/assets/161723991/b51c56b6-816e-4312-b08a-2330dbe21148)
 ![8934e9bc75035323b2b752965f1313b](https://github.com/MENGZZZZZZZ/CSC245-HW1/assets/161723991/4a76cd51-8e46-4215-82f0-2186d6508738)
+
+
+1. Create a rank 2 (2D) array that resembles the matrix below.
+[[11 12 13 14]
+ [15 16 17 18]]
+
+import numpy as np
+# Create a rank 2 (2D) array
+my_array = np.array([[11, 12, 13, 14], [15, 16, 17, 18]])
+print(my_array)
+
