@@ -1,6 +1,1 @@
-import numpy as np
-
-# Create a rank 2 (2D) array
-my_array = np.array([[11, 12, 13, 14], [15, 16, 17, 18]])
-
-print(my_array)
+![731123480384c41746f1283b454164d](https://github.com/MENGZZZZZZZ/CSC245-HW1/assets/161723991/a80fb8b7-9961-4640-b112-e6d84460e481
