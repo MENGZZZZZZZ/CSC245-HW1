@@ -1,4 +1,4 @@
-# Code below the screenshot
+# Code is below the screenshot
 ![731123480384c41746f1283b454164d](https://github.com/MENGZZZZZZZ/CSC245-HW1/assets/161723991/a73e8b5b-47fd-4dce-9b3c-053eb2a29630)
 ![bad43a5adff8a9f20553aaaf03a1e93](https://github.com/MENGZZZZZZZ/CSC245-HW1/assets/161723991/94442253-5fe9-4057-a941-4b880a58cac6)
 ![fffd959e51eb98f1da44dca27df6bcc](https://github.com/MENGZZZZZZZ/CSC245-HW1/assets/161723991/7ae11150-546e-438e-be5c-7ad73af47574)
